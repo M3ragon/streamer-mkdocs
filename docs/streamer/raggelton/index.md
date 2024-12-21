@@ -4,7 +4,7 @@
 
   - Alter: *alt*
   - Wohnort: *in Deutschland*
-  - Streamer seit: 
+  - Streamer seit: schon immer
   - Partner seit: 
 
 ## Links
