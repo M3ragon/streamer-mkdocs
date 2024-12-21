@@ -1,0 +1,141 @@
+site_name: M3ragon`s Streamerseite
+site_url: https://streamerdoc.merahost.vip/
+
+nav:
+    - Home: index.md
+    - Streamer:
+      - streamer/index.md
+      - Knueppelpaste: 
+        - streamer/knueppelpaste/index.md
+        - Setup: streamer/knueppelpaste/setup.md
+        - Builds: streamer/knueppelpaste/builds.md
+        - Keys: streamer/knueppelpaste/keys.md
+      - Raggelton:
+        - streamer/raggelton/index.md
+        - Setup: streamer/raggelton/setup.md
+        - Builds: streamer/raggelton/builds.md
+        - Keys: streamer/raggelton/keys.md
+      - Sektenspinner:
+        - streamer/sektenspinner/index.md
+        - Setup: streamer/sektenspinner/setup.md
+        - Builds: streamer/sektenspinner/builds.md
+        - Keys: streamer/sektenspinner/keys.md
+      - M3ragon:
+        - streamer/m3ragon/index.md
+        - Setup: streamer/m3ragon/setup.md
+        - Builds: streamer/m3ragon/builds.md
+        - Keys: streamer/m3ragon/keys.md
+    - Über: about.md
+
+theme:
+  name: material
+  font:
+    text: DM Serif Text
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - navigation.tabs
+    - navigation.top
+    - navigation.path
+    - navigation.indexes
+    - toc.integrate
+  logo: assets/img/logo.svg
+  favicon: assets/img/logo.svg
+  icon:
+    repo: fontawesome/brands/git-alt 
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: false
+      minify_css: false
+      htmlmin_opts:
+          remove_comments: true
+
+markdown_extensions:
+  - tables
+  - meta
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - abbr
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - toc:
+      permalink: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+
+copyright: Copyright &copy; 2021 - 2024 M3ragon
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - assets/javascripts/tablesort.js
+  - assets/javascripts/consent.js
+  - assets/javascripts/lazyload.js
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  homepage: https://streamerdoc.merahost.vip/
+  consent:
+    title: Cookie consent
+    description: 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: false
+      custom:
+        name: Custom
+        checked: false
+
