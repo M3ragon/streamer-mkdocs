@@ -113,8 +113,8 @@ markdown_extensions:
 
 copyright: Copyright &copy; 2021 - 2024 M3ragon
 
-repo_name: M3ragon/streaner-mkdocs
-repo_url: https://github.com/M3ragon/streaner-mkdocs
+repo_name: M3ragon/StreamerDoc
+repo_url: https://github.com/M3ragon/streamer-mkdocs
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
