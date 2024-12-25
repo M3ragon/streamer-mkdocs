@@ -2,10 +2,11 @@
 
 ## Daten
 
-  - Alter: *alt*
+  - Alter: *alt*, im Kopf immer 13
   - Wohnort: *in Deutschland*
   - Streamer seit: schon immer
-  - Partner seit: 
+  - Partner seit: ~2016
+  - Spiele: Escape from Tarkov und gelegentlich andere Spiele
 
 ## Links
   - [Twitch](https://www.twitch.tv/raggelton)
