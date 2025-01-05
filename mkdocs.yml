@@ -15,6 +15,11 @@ nav:
         - Setup: streamer/raggelton/setup.md
         - Builds: streamer/raggelton/builds.md
         - Keys: streamer/raggelton/keys.md
+      - acid_fired:
+        - streamer/acid_fired/index.md
+        - Setup: streamer/acid_fired/setup.md
+        - Builds: streamer/acid_fired/builds.md
+        - Keys: streamer/acid_fired/keys.md
       - Sektenspinner:
         - streamer/sektenspinner/index.md
         - Setup: streamer/sektenspinner/setup.md
