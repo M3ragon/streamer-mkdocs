@@ -117,7 +117,7 @@ markdown_extensions:
   - pymdownx.tilde
   - footnotes
 
-copyright: Copyright &copy; 2021 - 2024 M3ragon
+copyright: Copyright &copy; 2021 - 2025 M3ragon
 
 repo_name: M3ragon/StreamerDoc
 repo_url: https://github.com/M3ragon/streamer-mkdocs
