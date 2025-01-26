@@ -25,6 +25,7 @@ nav:
         - Setup: streamer/sektenspinner/setup.md
         - Builds: streamer/sektenspinner/builds.md
         - Keys: streamer/sektenspinner/keys.md
+        - KappaQuest: streamer/sektenspinner/kappa.md
       - M3ragon:
         - streamer/m3ragon/index.md
         - Setup: streamer/m3ragon/setup.md
@@ -44,7 +45,6 @@ theme:
     - navigation.top
     - navigation.path
     - navigation.indexes
-    - toc.integrate
   logo: assets/img/logo.svg
   favicon: assets/img/logo.svg
   icon:

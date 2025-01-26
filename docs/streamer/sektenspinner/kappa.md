@@ -1,0 +1,281 @@
+# Kappa Questline
+
+## Prapor
+
+- Shooting Cans [Wiki](WIWI)
+- Debut [Wiki](WIWI)
+- Luxurious Life [Wiki](WIWI)
+- Search Mission [Wiki](WIWI)
+- Background Check [Wiki](WIWI)
+- Shootout Picnic [Wiki](WIWI)
+- Delivery From the Past [Wiki](WIWI)
+- BP Depot [Wiki](WIWI)
+- The Bunker - Part 1 [Wiki](WIWI)
+- The Bunker - Part 2 [Wiki](WIWI)
+- Bad Rep Evidence [Wiki](WIWI)
+- Ice Cream Cones [Wiki](WIWI)
+- No Place for Renegades [Wiki](WIWI)
+- Documents [Wiki](WIWI)
+- Postman Pat - Part 1 [Wiki](WIWI)
+- Shaking Up the Teller [Wiki](WIWI)
+- The Punisher - Part 1 [Wiki](WIWI) 
+- The Punisher - Part 3 [Wiki](WIWI)
+- The Punisher - Part 4 [Wiki](WIWI)
+- The Punisher - Part 5 [Wiki](WIWI)
+- The Punisher - Part 6 [Wiki](WIWI)
+- Anesthesia [Wiki](WIWI)
+- Grenadier [Wiki](WIWI)
+- Test Drive - Part 1 [Wiki](WIWI)
+- Test Drive - Part 2 [Wiki](WIWI)
+- Test Drive - Part 3 [Wiki](WIWI)
+- Test Drive - Part 4 [Wiki](WIWI)
+- Test Drive - Part 5 [Wiki](WIWI)
+- Test Drive - Part 6 [Wiki](WIWI)
+- Perfect Mediator [Wiki](WIWI)
+- Belka and Strelka [Wiki](WIWI)
+- Polikhim Hobo [Wiki](WIWI)
+- Regulated Materials [Wiki](WIWI)
+- Big Customer (Multiple Choice Quest) [Wiki](WIWI)
+- Intimidator [Wiki](WIWI)
+- Easy Job - Part 1 [Wiki](WIWI)
+- Easy Job - Part 2 [Wiki](WIWI)
+- Reconnaissance [Wiki](WIWI)
+- Possessor [Wiki](WIWI)
+
+## Therapist
+
+- First in Line
+- Shortage
+- Operation Aquarius - Part 1
+- Operation Aquarius - Part 2
+- Sanitary Standards - Part 1
+- Sanitary Standards - Part 2
+- Painkiller
+- Pharmacist
+- Car Repair
+- Disease History
+- Supply Plans (Multiple Choice Quest)
+- Health Care Privacy - Part 1
+- Health Care Privacy - Part 2
+- Health Care Privacy - Part 3
+- Health Care Privacy - Part 4
+- Health Care Privacy - Part 5
+- Health Care Privacy - Part 6
+- Athlete
+- Private Clinic
+- Decontamination Service
+- General Wares
+- Colleagues - Part 1
+- Colleagues - Part 2
+- Colleagues - Part 3 (Multiple Choice Quest)
+- Postman Pat - Part 2
+- Out of Curiosity (Multiple Choice Quest)
+- Crisis
+- Seaside Vacation
+- Lost Contact
+- Drug Trafficking
+- Shipment Tracking
+- Closer to the People
+- Abandoned Cargo
+- All Is Revealed
+- A Healthy Alternative (Mult
+
+## Skier
+
+- Burning Rubber
+- Supplier
+- The Extortionist
+- Stirrup
+- What’s on the Flash Drive?
+- Golden Swag
+- Chemical - Part 1
+- Chemical - Part 2
+- Chemical - Part 3
+- Chemical - Part 4 (Multiple Choice Quest)
+- Vitamins - Part 1
+- Vitamins - Part 2
+- Friend From the West - Part 1
+- Friend From the West - Part 2
+- Informed Means Armed
+- Chumming
+- Setup
+- Flint
+- Lend-Lease - Part 1
+- Kind of Sabotage (Multiple Choice Quest)
+- Rigged Game
+- Safe Corridor
+- Private Club
+- Long Road
+- Missing Cargo
+- The Walls Have Eyes
+- Exit Here
+
+## Peacekeeper
+
+- Fishing Gear
+- Tigr Safari
+- Scrap Metal
+- Eagle Eye
+- Humanitarian Supplies
+- The Cult - Part 1
+- The Cult - Part 2
+- Spa Tour - Part 1
+- Spa Tour - Part 2
+- Spa Tour - Part 3
+- Spa Tour - Part 4
+- Spa Tour - Part 5
+- Spa Tour - Part 6
+- Spa Tour - Part 7
+- Cargo X - Part 1
+- Cargo X - Part 2
+- Cargo X - Part 3
+- Wet Job - Part 1
+- Wet Job - Part 2
+- Wet Job - Part 3
+- Wet Job - Part 4
+- Wet Job - Part 5
+- Wet Job - Part 6
+- The Guide
+- Samples
+- TerraGroup Employee
+- Lend-Lease - Part 2
+- Peacekeeping Mission
+- Classified Technologies
+- Revision - Reserve
+- Cargo X - Part 4
+- Insomnia
+- Overpopulation
+- Revision - Lighthouse
+- One Less Loose End (Multiple Choice Quest)
+
+## Mechanik
+
+- Saving the Mole
+- Introduction
+- Gunsmith - Part 1
+- Gunsmith - Part 2
+- Gunsmith - Part 3
+- Gunsmith - Part 4
+- Gunsmith - Part 5
+- Gunsmith - Part 6
+- Gunsmith - Part 7
+- Gunsmith - Part 8
+- Gunsmith - Part 9
+- Gunsmith - Part 10
+- Gunsmith - Part 11
+- Gunsmith - Part 12
+- Gunsmith - Part 13
+- Gunsmith - Part 14
+- Gunsmith - Part 15
+- Gunsmith - Part 16
+- Gunsmith - Part 17
+- Gunsmith - Part 18
+- Gunsmith - Part 19
+- Gunsmith - Part 20
+- Gunsmith - Part 21
+- Gunsmith - Part 22
+- Signal - Part 1
+- Insider
+- Signal - Part 2
+- Scout
+- Capacity Check
+- Black Swan
+- Forklift Certified
+- Surplus Goods
+- Back Door
+- Signal - Part 3
+- Signal - Part 4
+- Farming - Part 1
+- Farming - Part 2
+- Bad Habit
+- Farming - Part 3
+- Farming - Part 4
+- Psycho Sniper
+- A Shooter Born in Heaven
+- Fertilizers
+- Import
+- Passion for Ergonomics
+- Chemistry Closet
+- Corporate Secrets
+- Energy Crisis
+- Broadcast - Part 1
+
+## Ragman
+
+- Only Business
+- Make ULTRA Great Again
+- Big Sale
+- A Fuel Matter
+- Inventory Check
+- The Blood of War - Part 1
+- Dressed to Kill
+- Gratitude
+- Hot Delivery
+- Scavenger
+- Sales Night
+- Database - Part 1
+- Database - Part 2
+- Minibus
+- Sew it Good - Part 1
+- The Blood of War - Part 2
+- The Blood of War - Part 3
+- Sew it Good - Part 2
+- The Key to Success
+- No Fuss Needed
+- Supervisor
+- Sew it Good - Part 3
+- Living High is Not a Crime - Part 1
+- Living High is Not a Crime - Part 2
+- Sew it Good - Part 4
+- Charisma Brings Success
+- Break the Deal
+
+## Jäger
+
+- Acquaintance
+- The Survivalist Path - Unprotected but Dangerous
+- The Survivalist Path - Thrifty
+- The Survivalist Path - Zhivchik
+- The Survivalist Path - Wounded Beast
+- The Survivalist Path - Tough Guy
+- Courtesy Visit
+- Nostalgia
+- The Survivalist Path - Junkie
+- The Survivalist Path - Eagle-Owl
+- The Survivalist Path - Combat Medic
+- Ambulance
+- The Huntsman Path - Secured Perimeter
+- Reserve
+- The Huntsman Path - Forest Cleaning
+- The Huntsman Path - Controller
+- The Huntsman Path - Evil Watchman
+- Fishing Place
+- The Huntsman Path - Trophy
+- The Huntsman Path - Justice
+- The Huntsman Path - Sellout
+- The Huntsman Path - Woods Keeper
+- Hunting Trip
+- The Huntsman Path - Factory Chief
+- The Huntsman Path - Eraser - Part 1
+- The Huntsman Path - Eraser - Part 2
+- The Tarkov Shooter - Part 1
+- The Tarkov Shooter - Part 2
+- The Tarkov Shooter - Part 3
+- The Tarkov Shooter - Part 4
+- The Tarkov Shooter - Part 5
+- The Tarkov Shooter - Part 6
+- The Tarkov Shooter - Part 7
+- The Tarkov Shooter - Part 8
+- Shady Business
+- The Huntsman Path - Sadist 
+- Pest Control
+- The Hermit
+- The Huntsman Path - Outcasts
+- Stray Dogs
+- The Delicious Sausage
+- Every Hunter Knows This
+- Rough Tarkov
+- Dragnet
+- Claustrophobia
+- Work Smarter
+- Rite of Passage
