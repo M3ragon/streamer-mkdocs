@@ -26,6 +26,7 @@ nav:
         - Builds: streamer/sektenspinner/builds.md
         - Keys: streamer/sektenspinner/keys.md
         - KappaQuest: streamer/sektenspinner/kappa.md
+        - Kommands: streamer/sektenspinner/cmds.md
       - M3ragon:
         - streamer/m3ragon/index.md
         - Setup: streamer/m3ragon/setup.md
